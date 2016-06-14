@@ -17,4 +17,9 @@ Color History:
 - Yello dot: nag detected.
 - Red dot: error.
 
+The mail.dll is a component from www.limilabs.com/mail, I did not hack it, just used some little tricks as I was not going to pay a 150€ license to have some fun!
+
+Regards,
+id4rk
+
 -GPL-
