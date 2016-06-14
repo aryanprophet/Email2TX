@@ -1,0 +1,19 @@
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\Email2TX\bin\Debug\Email2TX.exe.config
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\Email2TX\bin\Debug\Email2TX.exe
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\Email2TX\bin\Debug\Email2TX.pdb
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\Email2TX\bin\Debug\Email2TX.xml
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\Email2TX\bin\Debug\Mail.dll
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\Email2TX\obj\Debug\Email2TX.vbprojResolveAssemblyReference.cache
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\Email2TX\obj\Debug\Email2TX.Resources.resources
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\Email2TX\obj\Debug\Email2TX.vbproj.GenerateResource.Cache
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\Email2TX\obj\Debug\Email2TX.exe
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\Email2TX\obj\Debug\Email2TX.xml
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\Email2TX\obj\Debug\Email2TX.pdb
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\Email2TXGH\Email2TX\bin\Debug\Email2TX.exe.config
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\Email2TXGH\Email2TX\obj\Debug\Email2TX.exe
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\Email2TXGH\Email2TX\obj\Debug\Email2TX.xml
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\Email2TXGH\Email2TX\obj\Debug\Email2TX.pdb
+C:\Users\benfr\Documents\GitHub\Email2TX\Email2TX\bin\Debug\Email2TX.exe.config
+C:\Users\benfr\Documents\GitHub\Email2TX\Email2TX\obj\Debug\Email2TX.exe
+C:\Users\benfr\Documents\GitHub\Email2TX\Email2TX\obj\Debug\Email2TX.xml
+C:\Users\benfr\Documents\GitHub\Email2TX\Email2TX\obj\Debug\Email2TX.pdb

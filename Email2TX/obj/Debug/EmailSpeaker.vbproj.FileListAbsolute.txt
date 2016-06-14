@@ -1,0 +1,12 @@
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\EmailSpeaker\bin\Debug\EmailSpeaker.exe.config
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\EmailSpeaker\bin\Debug\EmailSpeaker.exe
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\EmailSpeaker\bin\Debug\EmailSpeaker.pdb
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\EmailSpeaker\bin\Debug\EmailSpeaker.xml
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\EmailSpeaker\bin\Debug\Mail.dll
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\EmailSpeaker\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\EmailSpeaker\obj\Debug\EmailSpeaker.vbproj.GenerateResource.Cache
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\EmailSpeaker\obj\Debug\EmailSpeaker.exe
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\EmailSpeaker\obj\Debug\EmailSpeaker.xml
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\EmailSpeaker\obj\Debug\EmailSpeaker.pdb
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\EmailSpeaker\obj\Debug\EmailSpeaker.vbprojResolveAssemblyReference.cache
+C:\Users\benfr\Documents\Visual Studio 2015\Projects\EmailSpeaker\EmailSpeaker\bin\Debug\Email2TX.exe.config
