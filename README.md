@@ -16,3 +16,5 @@ Color History:
 - Green dot: received email.
 - Yello dot: nag detected.
 - Red dot: error.
+
+-GPL-
