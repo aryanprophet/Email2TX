@@ -2,7 +2,7 @@
 
 Project for people intersted in radio communication.
 
-This project can Morse, Hellschreiber or speak eMails.
+This project can morse, hellschreiber or speak emails.
 
 Features:
 - Morse eMails (to use with K3NG's keyer)
@@ -10,9 +10,9 @@ Features:
 - Read eMails (from Computer's audio output)
 
 Function:
-- It will check every X time via POP for emails on server.
-- If an email is detected, on correct receive, it will be deleted from server and morsed.
-- If a "nag text" from the email library is detected, the email will be skipped and retried.
+- Check every X interval for new emails using POP.
+- If email/s are found, on correct receive, it will be deleted from the server and then morsed.
+- If a "nag text" from the email library is detected, the email will be skipped and retried later.
 
 Color History:
 - Blue dot: Checking.
@@ -23,4 +23,4 @@ Color History:
 The mail.dll is a component from www.limilabs.com/mail
 
 Regards,
-id4rk
+aryanprophet
